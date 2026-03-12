@@ -42,10 +42,11 @@ Cluster Networking
 
 ```
 kubernetes-microservices
-│
+├ namespace.yaml
 ├ deployment.yaml
 ├ service.yaml
-└ ingress.yaml
+├ ingress.yaml
+└ README.md
 ```
 
 ---
